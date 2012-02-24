@@ -1,1 +1,1 @@
-Fooling around with the idea for a tool to create standoff markup xml for arbitrary texts
+Fooling around with the idea for a tool to create standoff markup xml for arbitrary texts. It's very simple using rangyinputs jquery plugin and some simple stuff for round-tripping xml objects to strings and back
